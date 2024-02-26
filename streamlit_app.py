@@ -16,10 +16,7 @@ def app():
     # Display the DataFrame with formatting
     st.title("Support Vector Machine Classifier")
     text = """Almera J. Valladolid \n\n
-    CCS 229 - Intelligent Systems
-    Computer Science Department
-    College of Information and Communications Technology
-    West Visayas State University"""
+    """
     st.text(text)
 
     st.subheader('Description')
